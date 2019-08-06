@@ -25,7 +25,7 @@ def monopoly_with_third_tier
                                         },
                     :names => { :north = "North",
                                 :south = "South",
-                                :east = "East"
+                                :east = "East",
                                 :west = "West"
                               }
                   }

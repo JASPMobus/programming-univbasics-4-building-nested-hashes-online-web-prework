@@ -23,7 +23,11 @@ def monopoly_with_third_tier
                                           :three_days => 2.75,
                                           :four_days => 3.5
                                         },
-                    :names => {}
+                    :names => { :north = "North",
+                                :south = "South",
+                                :east = "East"
+                                :west = "West"
+                              }
                   }
   }
 end

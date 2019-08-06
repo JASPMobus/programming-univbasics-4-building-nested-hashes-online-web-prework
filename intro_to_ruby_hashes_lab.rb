@@ -19,7 +19,7 @@ def monopoly_with_third_tier
   # complexity.
   { :railroads => { :pieces => 4,
                     :rent_in_dollars => { :one_piece_owned => 25, 
-                                          :two_days => 1.9,
+                                          :two_pieces_owned => 50,
                                           :three_days => 2.75,
                                           :four_days => 3.5
                                         },
